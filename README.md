@@ -1,4 +1,4 @@
-## Token Vesting
+## Terra Token Vesting
 
 This contract is to provide vesting account feature for the both cw20 and native tokens, which is controlled by a master address.
 
